@@ -2,3 +2,4 @@
 - [ ] Certificaciones de lenguaje de programación.
 - [X] Crear procesos de integracion.
 - [ ] Capacitación en la utilización de Git y GitHub.
+- [ ] Capacitación en Docker y Docker composer
